@@ -1,0 +1,22 @@
+<html>
+
+    <head>
+        <title>Variables</title>
+    </head>
+
+    <body>
+        <script>
+            var roll_number = 5
+            var section = 'C'
+            const pi = 3.14
+
+            document.write("Roll number = ",roll_number);
+            document.write("<br>");
+            document.write("Section = ",section);
+            document.write("<br>");
+            document.write("pi = ",pi);
+          
+        </script>
+    </body>
+
+</html>
